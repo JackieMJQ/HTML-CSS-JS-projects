@@ -1,0 +1,30 @@
+.nav-link{
+    font-family: 'Fredoka', sans-serif;
+    text-decoration: none;
+    margin-left: 95px;
+    color: white;
+    font-size: 30px;
+}
+
+.nav-link:hover{
+    color: blueviolet;
+}
+
+.nav-header{
+    text-align: center;
+}
+
+header{
+    background-color: black;
+}
+
+.footer-payment-icons{
+    text-align: center;
+    margin-top: 30px;
+}
+.subscribe{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 10px 0 0 0;
+}

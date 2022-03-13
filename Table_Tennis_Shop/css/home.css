@@ -1,0 +1,92 @@
+.nav-link{
+    font-family: 'Fredoka', sans-serif;
+    text-decoration: none;
+    margin-left: 10%;
+    color: white;
+    font-size: 30px;
+}
+
+.nav-link:hover{
+    color: blueviolet;
+}
+
+.nav-header{
+    text-align: center;
+}
+
+header{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.remind_title{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+.thanks{
+    margin-top: 20px;
+
+}
+
+h2{
+    text-align: center;
+    margin: 0 60px 0 60px;
+    font-family: 'Merriweather', serif;
+    font-weight: 1000;
+}
+
+.shop_pic{
+    width: 40%;
+}
+p{
+    float: right;
+    width: 58%;
+    margin: 0 10px;
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+}
+.shop_pics{
+    width: 22%;
+    margin-right: 20px;
+}
+
+.footer-payment-icons{
+    text-align: center;
+    margin-top: 30px;
+}
+.subscribe{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 10px 0 0 0;
+}
+button{
+    cursor: pointer;
+}
+
+/* contact special css */
+.sm{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.sm a{
+    color: #34d2eb;
+    width: 56px;
+    font-size: 22px;
+    transition: .3s linear;
+    text-decoration: none;
+}
+
+.sm a:hover{
+    color: #e66767;
+
+}

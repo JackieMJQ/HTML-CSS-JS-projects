@@ -1,0 +1,126 @@
+.nav-link{
+    font-family: 'Fredoka', sans-serif;
+    text-decoration: none;
+    margin-left: 10%;
+    color: white;
+    font-size: 30px;
+}
+
+.nav-link:hover{
+    color: blueviolet;
+}
+
+.nav-header{
+    text-align: center;
+}
+
+header{
+    background-color: black;
+}
+
+.footer-payment-icons{
+    text-align: center;
+    margin-top: 30px;
+}
+.subscribe{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 10px 0 0 0;
+}
+
+.product li{
+    float: left;
+    width: 234px;
+    height: 246px;
+    padding: 34px 0 20px;
+    margin-left: 14px;
+    margin-bottom: 14px;
+    background: #ffffff;
+    position: relative;
+    transition: all .2s linear;
+}
+.pro-img{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 18px;
+}
+.pro-img a{
+    width: 100%;
+    height: 100%;
+}
+.pro-img img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.product li h3{
+    margin: 0 10px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    
+}
+.product li h3 a{
+    color: #e33333;
+    text-decoration: none;
+}
+.desc{
+    margin: 0 10px 10px;
+    height: 18px;
+    font-size: 14px;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    color: #b0b0b0;
+}
+.price{
+    font-size: 14px;
+    margin: 0 10px 10px;
+    text-align: center;
+    color: #ff6700;
+}
+.price del{
+    color: #b0b0b0;
+}
+.review{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 234px;
+    font-size: 12px;
+    background: #ff6700;
+    transition: all .2s linear;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+}
+.review a{
+    color: #757575;
+    display: block;
+    padding: 8px 30px;
+    outline: 0;
+    text-decoration: none;
+    font-size: 10px;
+}
+.review a span{
+    display: block;
+    margin-bottom: 5px;
+    color: #fff;
+
+}
+.product li:hover{
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    transform: translate3d(0, -2px, 0);
+}
+.product li:hover .review{
+    opacity: 1;
+    height: 76px;
+}
+ul{
+    list-style: none;
+}
+footer{
+    margin-top: 700px;
+}
