@@ -8,3 +8,5 @@ This is a profile card page that introduce myself.
 2. [**NBA Star**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/profileCard) --
 This is a web page I developed for my favorite NBA star.
 <img width="500" alt="NBA star page screenshot" src="https://user-images.githubusercontent.com/97369797/153727929-590cf634-f6d6-48e6-a778-3fb0157d1c26.png">
+
+3. [**Jackie's Table Tennis Shop**](
