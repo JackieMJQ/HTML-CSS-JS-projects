@@ -9,4 +9,7 @@ This is a profile card page that introduce myself.
 This is a web page I developed for my favorite NBA star.
 <img width="500" alt="NBA star page screenshot" src="https://user-images.githubusercontent.com/97369797/153727929-590cf634-f6d6-48e6-a778-3fb0157d1c26.png">
 
-3. [**Jackie's Table Tennis Shop**](
+3. [**Jackie's Table Tennis Shop**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/Table_Tennis_Shop) -- 
+There are five sections for sale in this table tennis shop website, the home webpage, the three products page and the contact page (HTML and CSS).
+<img width='500' src="https://user-images.githubusercontent.com/97369797/158040551-e27fb2f2-f6e9-4f0b-8d6f-c92cc6adbd03.png">
+
