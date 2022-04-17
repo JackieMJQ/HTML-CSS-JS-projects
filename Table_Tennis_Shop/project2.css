@@ -1,0 +1,170 @@
+/* header */
+header{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: 45px;
+    margin: 0%;
+}
+img{
+    max-width: 40%;
+    display: block;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 35vw;
+}
+.nav-link{
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: whitesmoke;
+    font-size: 1.5rem;
+    margin: auto;
+}
+.nav-link:hover{
+    color: aquamarine;
+}
+nav{
+    margin: auto;
+    margin-right: 30px;
+}
+.header-list{
+    list-style-type: none;
+}
+
+/* register */
+section{
+    text-align: center;
+    display: block;
+    margin-top: 12%;
+}
+h2{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+}
+form{
+    display: block;
+}
+#email{
+    max-width: 275px;
+    width: 100%;
+    padding: 5px;
+}
+.btn{
+    background-color: orange;
+    margin: 15px;
+    font-size: 1rem;
+    padding: 5px 20px;
+    cursor: pointer;
+    font-weight: 900;
+}
+.btn:hover{
+    background-color: #f55105;
+}
+
+/* feature */
+.blade{
+    width: 25vw;
+    height: fit-content;
+    border: 8px solid black;
+    margin: 20px 0px 30px 5%;
+    border-radius: 5px;
+}
+#feature{
+    display: flex;
+}
+.description{
+    margin-left: 8%;
+}
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h3{
+    display: block;
+}
+.list{
+    display: block;
+}
+
+/* review */
+.review{
+    margin-left: 8%;
+}
+
+/* video */
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+/* rubber */
+.rubber-title{
+    text-align: center;
+    margin-top: 50px;
+}
+.rubber-ul{
+    margin: auto;
+    width: 80%;
+    padding-left: 0%;
+}
+.container img{
+    margin: auto;
+    max-width: 20rem;
+}
+.rubber-list{
+    list-style-type: none;
+}
+.rubber-name{
+    text-align: center;
+    display: block;
+}
+
+
+@media (max-width: 600px) {
+    /* header */
+    header{
+        text-align: center;
+        padding: 0%;
+    }
+    ul{
+        margin: auto;
+        padding: 0%;
+    }
+    img{
+        max-width: 100%;
+    }
+    nav{
+        margin: auto;
+    }
+    .nav-link{
+        margin: 30px;
+    }
+    /* main */
+    section{
+        margin-top: 40%;
+    }
+    #feature{
+        display: block;
+    }
+    .blade{
+        width: 70%;
+        margin: auto;
+    }
+    .price{
+        text-align: center;
+    }
+    iframe{
+        width: fit-content;
+    }
+    .rubber-ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
