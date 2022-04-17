@@ -11,7 +11,12 @@ There are five sections for sale in this table tennis shop website, the home web
 This is a profile card page that introduce myself.
 <img width="500" alt="profile card screenshot" src="https://user-images.githubusercontent.com/97369797/153727914-1ce45b86-f9c9-4574-814a-f6160ca3d577.png">
 
-3. [**NBA Star**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/profileCard) --
+3. [**Tribute for Kobe**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/tribute%20for%20kobe) --
+This is Tribute Page for Kobe. It include his childhood, his career, and his award. 
+<img width="500" alt="" src="https://user-images.githubusercontent.com/97369797/163697226-2ea43633-1a19-42db-8752-1ac5bee5af1e.png">
+
+
+4. [**NBA Star**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/profileCard) --
 This is a web page I developed for my favorite NBA star.
 <img width="500" alt="NBA star page screenshot" src="https://user-images.githubusercontent.com/97369797/153727929-590cf634-f6d6-48e6-a778-3fb0157d1c26.png">
 
