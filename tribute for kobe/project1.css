@@ -1,0 +1,84 @@
+:root{
+    --purple: rgba(63,36,127,255);
+    --golden: #f5b505;
+    --general-board: 5px solid;
+}
+body{
+    background: var(--purple);
+    text-align: center;
+}
+h1{
+    color: var(--golden);
+    font-size: 6vw;
+    text-align: center;
+    font-family: 'Shizuru', cursive;
+    margin-bottom: 0%;
+}
+h2{
+    font-size: 2vw;
+    text-align: center;
+    font-family: 'Shizuru', cursive;
+    color: var(--golden);
+}
+img{
+    max-width: 60%;
+    border: var(--general-board) var(--golden);
+    height: auto;
+    display: block;
+    margin: auto;
+}
+#img-caption{
+    color: beige;
+}
+.life{
+    font-size: 2.5vw;
+}
+h3{
+    display: flex;
+    margin-left: 10%;
+    color: #32d162;
+    font-size: 2.5vw;
+    text-shadow: 2px 2px 8px #32a852;
+}
+ul{
+    font-size: 24px;
+    color: var(--golden);
+    font-family: 'Hahmlet', serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: var(--general-board) #fbc2eb;
+    padding: 20px 20px 10px 40px;
+    text-align: left;
+}
+li{
+    margin-bottom: 15px;
+}
+.death{
+    list-style-type: none;
+}
+h4{
+    color: #fa4b00;
+    font-size: 25px;
+}
+#tribute-link{
+    color: var(--golden);
+    text-decoration: none;
+}
+#tribute-link:hover{
+    color: aqua;
+}
+
+@media (max-width: 600px) {
+    h1{
+        font-size: 3rem;
+    }
+    h2,  .life{
+        font-size: 2rem;
+    }
+    img{
+        max-width: 90%;
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+}
