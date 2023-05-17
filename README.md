@@ -8,7 +8,7 @@ There are five sections for sale in this table tennis shop website, the home web
 <img width = '500' src="https://user-images.githubusercontent.com/97369797/158040621-0a27245b-f537-4189-a0ef-5ea3aa0d5333.png">
 
 2.    [**Movie information App with search engine**](https://github.com/JackieMJQ/HTML-CSS-JS-projects/tree/main/movieApp) -- 
-This movie app built by HTML, CSS and JavaScript, used movie database API -- [**TMDB**] (https://developer.themoviedb.org/docs). You can get the latest movie information and search any movie you want.
+This movie app built by HTML, CSS and JavaScript, used movie database API -- [**TMDB**](https://developer.themoviedb.org/docs). You can get the latest movie information and search any movie you want.
 <img width='600' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/af2c21d5-115e-4a92-9021-24f873e92f67">
 <img width = '600' src = "https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/14ea8d59-09f1-40cb-84b6-ce7a1565a5ae">
 
