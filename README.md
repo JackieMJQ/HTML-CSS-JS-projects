@@ -10,7 +10,7 @@ There are five sections for sale in this table tennis shop website, the home web
 2.    [**Movie information App with search engine**](https://github.com/JackieMJQ/HTML-CSS-JS-projects/tree/main/movieApp) -- 
 This movie app built by HTML, CSS and JavaScript, used movie database API -- [**TMDB**] (https://developer.themoviedb.org/docs). You can get the latest movie information and search any movie you want.
 <img width = '600' src = "https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/00d5352c-932c-401c-9842-e681db459e1a">
-<img width='600' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/9ca93e6b-f6c7-447e-8c09-3d181f2369b1">
+<img width='600' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/af2c21d5-115e-4a92-9021-24f873e92f67">
 
 3. [**Profile card**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/Favorite%20NBA%20star) -- 
 This is a profile card page that introduce myself.
