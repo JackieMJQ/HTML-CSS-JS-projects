@@ -57,10 +57,10 @@ p{
     margin-right: 20px;
 }
 
-.footer-payment-icons{
+/* .footer-payment-icons{
     text-align: center;
     margin-top: 30px;
-}
+} */
 .subscribe{
     text-align: center;
     background-color: black;
@@ -173,8 +173,20 @@ form button:hover{
     font-size: 22px;
     margin: 10px;
     cursor: pointer;
+    transition: .3s linear;
 }
 
 .social_media i:hover{
     color: #e66767;
+}
+
+.address {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+
+.address p {
+    font-size: 14px;
 }
