@@ -190,3 +190,26 @@ form button:hover{
 .address p {
     font-size: 14px;
 }
+
+.follow_us{
+    display:flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.follow_us i{
+    /* 
+    width: 56px;
+    font-size: 22px;
+    transition: .3s linear;
+    margin: 10px; */
+    color: black;
+    font-size: 30px;
+    margin: 20px;
+    cursor: pointer;
+    transition: .3s linear;
+}
+
+.follow_us i:hover{
+    color: #e66767;
+}
