@@ -37,6 +37,9 @@ nav{
 .header-list{
     list-style-type: none;
 }
+#header-img {
+    width: 20%;
+}
 
 /* register */
 section{
@@ -70,7 +73,7 @@ form{
 }
 
 /* feature */
-.blade{
+#blade_img{
     width: 25vw;
     height: fit-content;
     border: 8px solid black;
@@ -79,6 +82,7 @@ form{
 }
 #feature{
     display: flex;
+    margin-top: 10%;
 }
 .description{
     margin-left: 8%;
