@@ -1,0 +1,164 @@
+[
+    {
+      "number": 1,
+      "name": "Hurricane 3 Neo",
+      "image": "https://cdn.shopify.com/s/files/1/0723/9035/products/DHS_NH3_YumoProShop.jpg?v=1662748989",
+      "description": "Best Choice For Forehand",
+      "price": "CA$29.90",
+      "feature": "Created with and Supported Zhang Jike: Attack | Reaction: 11.8 | Vibration: 10.3",
+      "review": {
+        "message": "Powerful spin and fast speed",
+        "reviewer": "From customer John",
+        "review video" : "https://www.youtube.com/watch?v=fcZgdf7aje0"
+      },
+      "blade_data": {
+        "class": "OFF",
+        "plies": "5W+2ALC",
+        "weight": "~87g",
+        "blade thickness": "5.7mm",
+        "blade size": "157x150mm",
+        "FL handle size": "101x24mm",
+        "ST handle size": "100x22mm",
+        "country": "Made in Japan"
+      }
+    },
+    {
+      "number": 2,
+      "name": "Butterfly Tenergy 05",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bb793b17eb88c652de124ef/1640905194798-6VN9C418ZQ6ORSAA041E/TN__73648.1526300612.jpg?format=2500w",
+      "description": "For Maximum Spin",
+      "price": "CA$99.99",
+      "feature": "Created with and Supported Zhang Jike: Attack | Reaction: 12.8 | Vibration: 9.3",
+      "review": {
+        "message": "It improve my backhand a lot.",
+        "reviewer": "From customer Jackie",
+        "review video": "https://www.youtube.com/watch?v=y6X0bHFXhr4"
+      },
+      "blade_data": {
+        "class": "OFF",
+        "plies": "5W+2ALC",
+        "weight": "~85g",
+        "blade thickness": "5.8mm",
+        "blade size": "157x150mm",
+        "FL handle size": "100x25mm",
+        "ST handle size": "100x23mm",
+        "country": "Made in Japan"
+      }
+    },
+    {
+      "number": 3,
+      "name": "Butterfly Tenergy 64",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0y1Vq8yy9OQBVNL_D3N_LfKEYkeP2kqiiw&usqp=CAU",
+      "description": "For Maximum Control&Speed",
+      "price": "CA$99.99",
+      "feature": "The popularity of the Harimoto ALC blade was so overwhelming positive, this blade technology has been extended to the Super ZLC carbon fibers: Attack | Reaction: 12.0 | Vibration: 10.5",
+      "review": {
+        "message": "It's very easy to control",
+        "reviewer": "From customer Nick",
+        "review video": "https://www.youtube.com/watch?v=1T09gXkkxoQ"
+      },
+      "blade_data": {
+        "class": "OFF",
+        "plies": "5W+2SZLC",
+        "weight": "~90g",
+        "blade thickness": "6.2mm",
+        "blade size": "158x152mm",
+        "FL handle size": "100x25mm",
+        "ST handle size": "100x23mm",
+        "country": "Made in Japan"
+      }
+    },
+    {
+      "number": 4,
+      "name": "Gold Arc 8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgmtwJzjvOZdSEJCezda4jZYZ9zGavl4BNw&usqp=CAU",
+      "description": "No Drawback",
+      "price": "CA$59.99",
+      "feature": "At a first glance this is a medium fast light blade with outstanding control. But due to special glue technology which makes the construction of the blade solid and special selection of plywood this unique blade has hidden speed potential which provides players with enormous power for fast attack either close to the table or from the distance: Attack | Reaction: 10.8 | Vibration: 6.3",
+      "review": {
+        "message": "Totally enough for me.",
+        "reviewer": "From customer Yorck",
+        "review video": "https://www.youtube.com/watch?v=pgE50eaHpaU"
+      },
+      "blade_data": {
+        "class": "OFF",
+        "plies": "3W+2P",
+        "weight": "~89g",
+        "blade thickness": "5.5mm",
+        "blade size": "158x152mm",
+        "FL handle size": "100x25mm",
+        "ST handle size": "100x23mm",
+        "country": "Made in China"
+      }
+    },
+    {
+      "number": 5,
+      "name": "Palio Extreme Spin",
+      "image": "https://cdn11.bigcommerce.com/s-48njjyw/images/stencil/960w/products/1560/5152/palio_extreme_cj8000_spin_1__29077.1530283709.png?c=2",
+      "description": "Perfect For Beginner",
+      "price": "CA$19.99",
+      "feature": "For power allround players that like to attack with variety and powerful shots.Great for attacking, dynamic, great control, balanced characteristics: Attack | Reaction: 8.8 | Vibration: 9.3",
+      "review": {
+        "message": "My son said it's good.",
+        "reviewer": "From customer Peter",
+        "review video": "https://www.youtube.com/watch?v=ONlHBmJWN3U"
+      },
+      "blade_data": {
+        "class": "OFF",
+        "plies": "5 veneers",
+        "weight": "~85g",
+        "blade thickness": "5.8mm",
+        "blade size": "158x152mm",
+        "FL handle size": "100x25mm",
+        "ST handle size": "100x23mm",
+        "country": "Made in Sweden"
+      }
+    },
+    {
+      "number": 6,
+      "name": "Xiom Vega Asia DF",
+      "image": "https://cdn11.bigcommerce.com/s-48njjyw/images/stencil/960w/products/5044/7546/2706__90366.1575154070.jpg?c=2",
+      "description": "Suitable for Asian Playstyle",
+      "price": "CA$34.93",
+      "feature": " Fast with a lot of touch, consistent in power for all out attacking style: All-around | Reaction: 6.8 | Vibration: 5.3",
+      "review": {
+        "message": "Good control",
+        "reviewer": "From customer Harry",
+        "review video": "https://www.youtube.com/watch?v=Z-uHDRyGn6k"
+      },
+      "blade_data": {
+        "class": "ALL",
+        "plies": "5W",
+        "weight": "~89g",
+        "blade thickness": "6.2mm",
+        "blade size": "160x154mm",
+        "FL handle size": "103x25mm",
+        "ST handle size": "100x22mm",
+        "country": "Made in Germany"
+      }
+    },
+    {
+      "number": 7,
+      "name": "TSP Super Spinpips Blue Rubber (Short Pips)",
+      "image": "https://cdn11.bigcommerce.com/s-48njjyw/images/stencil/960w/products/3735/3567/Spinpips_Blue__34930.1498860937.jpg?c=2",
+      "description": "Dynamic Tension Technology",
+      "price": "CA$84.93",
+      "feature": " The TIMBER 5 has moderate speed but high control due to its great feeling. The TIMBER 5 ALL/S has controlled strokes mixed with high variability: All-around | Reaction: 7.8 | Vibration: 7.0",
+      "review": {
+        "message": "This rubber uniquely combines the speed of a hard, open-pore sponge with the proven great spin potential of the special Spinpips pips geometry.",
+        "reviewer": "From customer Tony",
+        "review video": "https://www.youtube.com/watch?v=KBnqknohv3w"
+      },
+      "blade_data": {
+        "class": "ALL",
+        "plies": "5W",
+        "weight": "~83g",
+        "blade thickness": "5.3mm",
+        "blade size": "158x152mm",
+        "FL handle size": "100x25mm",
+        "ST handle size": "100x23mm",
+        "country": "Made in Germany"
+      }
+    }
+  ]
+  
