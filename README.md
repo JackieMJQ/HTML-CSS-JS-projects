@@ -3,9 +3,9 @@ This is a repository that iclude all of my hobby projects developed by HTML, CSS
 
 1. [**Jackie's Table Tennis Shop**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/Table_Tennis_Shop) -- 
 There are five sections on this table tennis shop website, including home webpage, the three products page, and the contact page. They have product detail pages for each product that is created by JavaScript and managed by JSON.
-<img width = '400' src = "https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/59343445-0c46-4363-a147-07ed242aec2d">
-<img width='400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/2c69a27c-b463-4775-88af-bb4d3d195f56">
-<img width = '400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/b59c9aa8-5308-4243-a0e8-5a15646e75aa">
+<img width = '400' src = "https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/59343445-0c46-4363-a147-07ed242aec2d"><br>
+<img width='400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/2c69a27c-b463-4775-88af-bb4d3d195f56"><br>
+    <img width = '400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/b59c9aa8-5308-4243-a0e8-5a15646e75aa">
 
 2.    [**Movie information App with search engine**](https://github.com/JackieMJQ/HTML-CSS-JS-projects/tree/main/movieApp) -- 
 This movie app built by HTML, CSS and JavaScript, used movie database API -- [**TMDB**](https://developer.themoviedb.org/docs). You can get the latest movie information and search any movie you want.
