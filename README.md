@@ -2,10 +2,11 @@
 This is a repository that iclude all of my hobby projects developed by HTML, CSS and JavaScript.
 
 1. [**Jackie's Table Tennis Shop**](https://github.com/JackieMJQ/HTML-and-CSS-projects/tree/main/Table_Tennis_Shop) -- 
-There are five sections on this table tennis shop website, including home webpage, the three products page, and the contact page. They have product detail pages for each product that is created by JavaScript and managed by JSON.<br>
-<img width = '400' src = "https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/59343445-0c46-4363-a147-07ed242aec2d"><br>
-<img width='400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/2c69a27c-b463-4775-88af-bb4d3d195f56"><br>
-    <img width = '400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/b59c9aa8-5308-4243-a0e8-5a15646e75aa">
+There are six sections on this table tennis shop website, including home webpage, the three products page, the contact page, and the shopping cart page. They have product detail pages for each product that is created by JavaScript and managed by JSON.<br>
+<img width = '400' src = "https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/d373e32d-c6ed-4b9b-a3fa-637a7bf3560a"><br>
+<img width='400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/d51e8385-5b61-4152-b530-1aacb4603197"><br>
+    <img width = '400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/34dfc99f-bb69-45de-ab58-0d442931fd2d"><br>
+    <img width = '400' src="https://github.com/JackieMJQ/HTML-CSS-JS-projects/assets/97369797/21a5704e-5bc4-4865-b248-d72c48cb3e3b">
 
 2.    [**Movie information App with search engine**](https://github.com/JackieMJQ/HTML-CSS-JS-projects/tree/main/movieApp) -- 
 This movie app built by HTML, CSS and JavaScript, used movie database API -- [**TMDB**](https://developer.themoviedb.org/docs). You can get the latest movie information and search any movie you want.
