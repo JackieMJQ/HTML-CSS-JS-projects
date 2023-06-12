@@ -39,12 +39,13 @@ function processJsonData(data) {
 
     const price = document.createElement('p');
     price.classList.add('price');
-    price.textContent = data.price; // set price
+    price.textContent = "CA$" + data.price; // set price
     li.appendChild(price);
 
     const review_div = document.createElement('div');
     review_div.classList.add('review');
     li.appendChild(review_div);
+
 
     const review_a = document.createElement('a');
     review_div.appendChild(review_a);
@@ -58,6 +59,11 @@ function processJsonData(data) {
     review_author.classList.add('author');
     review_author.textContent = data.review.reviewer; // set reviewer
     review_a.appendChild(review_author);
+
+    const cartBtn = document.createElement('button');
+    cartBtn.classList.add('cartBtn')
+    cartBtn.textContent = 'Add to Cart';
+    li.appendChild(cartBtn)
 
     
 }

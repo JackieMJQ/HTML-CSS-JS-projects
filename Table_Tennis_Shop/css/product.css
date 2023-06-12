@@ -1,7 +1,7 @@
 .nav-link{
     font-family: 'Fredoka', sans-serif;
     text-decoration: none;
-    margin-left: 10%;
+    margin: 0 3.5%;
     color: white;
     font-size: 30px;
 }
@@ -16,6 +16,11 @@
 
 header{
     background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
 }
 
 .footer-payment-icons{
@@ -35,7 +40,7 @@ header{
     height: 246px;
     padding: 34px 0 20px;
     margin-left: 14px;
-    margin-bottom: 14px;
+    margin-bottom: 70px;
     background: #ffffff;
     position: relative;
     transition: all .2s linear;
@@ -129,7 +134,7 @@ footer{
     box-sizing: border-box;
 }
 .footer_test {
-    margin-top: 150px;
+    margin-top: 450px;
     width: 100%;
     padding: 100px 15%;
     background-color: #333;
@@ -219,4 +224,116 @@ form button:hover{
 
 .address p {
     font-size: 14px;
+}
+
+
+#cart_icon{
+    width: 25px;
+}
+
+.cartBtn{
+    display:flex;
+    margin-top: 30px;
+    margin-left: 30%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+}
+
+.cartBtn:hover {
+    background-color:#FAA019;
+    transition: 0.7s;
+}
+
+
+
+/* --------- Cart page ---------- */
+.products-container {
+    max-width: 800px;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+}
+
+.cart-product ion-icon {
+    font-size: 25px;
+    color: blue;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.product-header {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    justify-content: flex-start;
+    border-bottom: 4px solid lightgrey;
+    margin: 0 auto;
+}
+
+.product-title {
+    width: 45%;
+}
+
+.cart-price {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.cart-quantity {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.cart-total {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+
+.cart-products {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cart-product {
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid lightgray;
+}
+h5{
+    margin-bottom: 0;
+}
+
+.cart-product img {
+    width: 30%;
+}
+
+.basketTotalContainer {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 10px 0;
+}
+
+.basketTotalTitle {
+    width: 20%;
 }
