@@ -41,37 +41,6 @@ nav{
     width: 20%;
 }
 
-/* register */
-section{
-    text-align: center;
-    display: block;
-    margin-top: 12%;
-}
-h2{
-    text-align: center;
-    font-family: 'Playfair Display', serif;
-    font-size: 2rem;
-}
-form{
-    display: block;
-}
-#email{
-    max-width: 275px;
-    width: 100%;
-    padding: 5px;
-}
-.btn{
-    background-color: orange;
-    margin: 15px;
-    font-size: 1rem;
-    padding: 5px 20px;
-    cursor: pointer;
-    font-weight: 900;
-}
-.btn:hover{
-    background-color: #f55105;
-}
-
 /* feature */
 #blade_img{
     width: 25vw;
@@ -95,6 +64,11 @@ h3{
 }
 .list{
     display: block;
+}
+
+.list li{
+    font-weight: 800;
+    font-size: 1.0rem;
 }
 
 /* review */

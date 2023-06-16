@@ -11,8 +11,13 @@ function processJsonData(data) {
     // Get the parent element
     const parentElement = document.querySelector('.product')
 
+    // JOHN: One method is to create a unique link for each paddle as query string parameters. This is done by appending the paddle number.
+    const link = document.createElement('a');
+    link.href = 'blade_detail.html?number=' + data.number;
+    parentElement.appendChild(link);
+
     const ul = document.createElement('ul');
-    parentElement.appendChild(ul);
+    link.appendChild(ul);
 
     const li = document.createElement('li');
     ul.appendChild(li);

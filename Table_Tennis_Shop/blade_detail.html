@@ -4,18 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/project2.css">
-    <title>Lin Gaoyuan ALC</title>
+    <link rel="stylesheet" href="./css/detail.css">
+    <title></title>
     <!-- font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500" rel="stylesheet">
-    <script src="./script/blade_detail.js"></script>
-    <script type="module" src="./script/detail_page.js"></script>
 </head>
 <body>
-    <!-- <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script> -->
     <header id="header">
         <img src="./assets/logo.png" type="image" id="header-img">
         <nav id="nav-bar">
@@ -34,26 +31,26 @@
     </header>
     <main>
         <div id="feature">
-            <img src="https://en.butterfly.tt/media/catalog/product/cache/f85ccc2bdff640b75a4bdb2c4e86ccb6/b/l/blade_lin_gaoyuan_st_01_1_1.jpg" alt="lin gaoyuan ALC blade" id="blade_img" >
+            <img id="blade_img">
             <div class="description">
                 <h1>Features</h1>
-                <h3>Created with and Supported Lin Gaoyuan: Attack | Reaction: 11.8 | Vibration: 10.3</h3>
-                <h1 class="price">$179.99</h1>
+                <h3 id="feature-text"></h3>
+                <h1 id="price"></h1>
                 <ul class="list">
-                    <li>Class: OFF</li>
-                    <li>Plies: 5W+2AC</li>
-                    <li>Weight: ~87g</li>
-                    <li>Blade Thickness: 5.7mm</li>
-                    <li>Blade Size: 157x150mm</li>
-                    <li>FL Handle Size: 101x24mm</li>
-                    <li>ST Handle Size: 100x22mm</li>
-                    <li>Made in Japan</li>
+                    <li id="class"></li>
+                    <li id="plies"></li>
+                    <li id="weight"></li>
+                    <li id="blade_thickness"></li>
+                    <li id="blade_size"></li>
+                    <li id="fl_handle_size"></li>
+                    <li id="st_handle_size"></li>
+                    <li id="made_in"></li>
                 </ul>
             </div>
         </div>
         <div id="review">
             <h1 class="review">Review video:</h1>
-            <iframe id="video"  height="400" width="600" src="https://www.youtube.com/embed/VzxZfLq4VKE?enablejsapi=1&amp" frameborder="0" allowfullscreen=""></iframe>
+            <iframe id="video"  height="400" width="600" src="" frameborder="0" allowfullscreen=""></iframe>
         </div>
         <div id="rubber">
             <h1 class="rubber-title">CUSTOMERS WHO BOUGHT THIS ITEM ALSO BOUGHT</h1>
@@ -77,10 +74,8 @@
                     </div>
                 </li>
             </ul>
-            
         </div>
-
     </main>
-
+    <script src="script/detail_page.js" type="module"></script>
 </body>
 </html>

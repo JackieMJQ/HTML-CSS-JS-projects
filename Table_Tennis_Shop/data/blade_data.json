@@ -9,16 +9,16 @@
       "review": {
         "message": "Very Powerful like Zhang Jike",
         "reviewer": "From customer Jackie",
-        "review video" : "https://www.youtube.com/watch?v=fcZgdf7aje0"
+        "review_video" : "https://www.youtube.com/embed/fcZgdf7aje0"
       },
       "blade_data": {
         "class": "OFF",
         "plies": "5W+2ALC",
         "weight": "~87g",
-        "blade thickness": "5.7mm",
-        "blade size": "157x150mm",
-        "FL handle size": "101x24mm",
-        "ST handle size": "100x22mm",
+        "blade_thickness": "5.7mm",
+        "blade_size": "157x150mm",
+        "FL_handle_size": "101x24mm",
+        "ST_handle_size": "100x22mm",
         "country": "Made in Japan"
       }
     },
@@ -32,16 +32,16 @@
       "review": {
         "message": "Viscaria is an amazing blade. It is well balanced and great for looping, blocking and backhand flicks.",
         "reviewer": "From customer Charles",
-        "review video": "https://www.youtube.com/watch?v=y6X0bHFXhr4"
+        "review_video": "https://www.youtube.com/embed/y6X0bHFXhr4"
       },
       "blade_data": {
         "class": "OFF",
         "plies": "5W+2ALC",
         "weight": "~85g",
-        "blade thickness": "5.8mm",
-        "blade size": "157x150mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "5.8mm",
+        "blade_size": "157x150mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in Japan"
       }
     },
@@ -55,16 +55,16 @@
       "review": {
         "message": "Loved it so far, fast- spin- control.Blocking is great too",
         "reviewer": "From customer Tuan",
-        "review video": "https://www.youtube.com/watch?v=1T09gXkkxoQ"
+        "review_video": "https://www.youtube.com/embed/1T09gXkkxoQ"
       },
       "blade_data": {
         "class": "OFF",
         "plies": "5W+2SZLC",
         "weight": "~90g",
-        "blade thickness": "6.2mm",
-        "blade size": "158x152mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "6.2mm",
+        "blade_size": "158x152mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in Japan"
       }
     },
@@ -78,16 +78,16 @@
       "review": {
         "message": "This blade responds good controls and creates better feeling for the top spin play.",
         "reviewer": "From customer Edmund",
-        "review video": "https://www.youtube.com/watch?v=pgE50eaHpaU"
+        "review_video": "https://www.youtube.com/embed/pgE50eaHpaU"
       },
       "blade_data": {
         "class": "OFF",
         "plies": "3W+2P",
         "weight": "~89g",
-        "blade thickness": "5.5mm",
-        "blade size": "158x152mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "5.5mm",
+        "blade_size": "158x152mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in China"
       }
     },
@@ -101,16 +101,16 @@
       "review": {
         "message": "Having a Great time with it.",
         "reviewer": "From customer Martin",
-        "review video": "https://www.youtube.com/watch?v=ONlHBmJWN3U"
+        "review_video": "https://www.youtube.com/embed/ONlHBmJWN3U"
       },
       "blade_data": {
         "class": "OFF",
         "plies": "5 veneers",
         "weight": "~85g",
-        "blade thickness": "5.8mm",
-        "blade size": "158x152mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "5.8mm",
+        "blade_size": "158x152mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in Sweden"
       }
     },
@@ -124,16 +124,16 @@
       "review": {
         "message": "Easy to control",
         "reviewer": "From customer Jerry",
-        "review video": "https://www.youtube.com/watch?v=Z-uHDRyGn6k"
+        "review_video": "https://www.youtube.com/embed/Z-uHDRyGn6k"
       },
       "blade_data": {
         "class": "ALL",
         "plies": "5W",
         "weight": "~89g",
-        "blade thickness": "6.2mm",
-        "blade size": "160x154mm",
-        "FL handle size": "103x25mm",
-        "ST handle size": "100x22mm",
+        "blade_thickness": "6.2mm",
+        "blade_size": "160x154mm",
+        "FL_handle_size": "103x25mm",
+        "ST_handle_size": "100x22mm",
         "country": "Made in Germany"
       }
     },
@@ -147,16 +147,16 @@
       "review": {
         "message": "Suitable for variable topspin players who prefer to use a pure wood racket.",
         "reviewer": "From customer Steve",
-        "review video": "https://www.youtube.com/watch?v=KBnqknohv3w"
+        "review_video": "https://www.youtube.com/embed/KBnqknohv3w"
       },
       "blade_data": {
         "class": "ALL",
         "plies": "5W",
         "weight": "~83g",
-        "blade thickness": "5.3mm",
-        "blade size": "158x152mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "5.3mm",
+        "blade_size": "158x152mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in Germany"
       }
     },
@@ -170,16 +170,16 @@
       "review": {
         "message": "This racket features a thicker blade and a slightly larger design than the Innerforce Layer ALC.",
         "reviewer": "From customer Cole",
-        "review video": "https://www.youtube.com/watch?v=Z_ZfP5VPT8w"
+        "review_video": "https://www.youtube.com/embed/Z_ZfP5VPT8w"
       },
       "blade_data": {
         "class": "OFF",
         "plies": "Innerfiber 5 plywood + 2 Arylate/Carbon",
         "weight": "~89g",
-        "blade thickness": "6.2mm",
-        "blade size": "158x152mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "6.2mm",
+        "blade_size": "158x152mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in Japan"
       }
     },
@@ -193,16 +193,16 @@
       "review": {
         "message": "Featuring a straight handle and a slightly larger head, this blade provides exceptional control and accuracy for close-to-the-table counterdrive play.",
         "reviewer": "From customer Curry",
-        "review video": "https://www.youtube.com/watch?v=BiJrfnF0IVo"
+        "review_video": "https://www.youtube.com/embed/BiJrfnF0IVo"
       },
       "blade_data": {
         "class": "DEF",
         "plies": "5P",
         "weight": "~87g",
-        "blade thickness": "6.5mm",
-        "blade size": "158x152mm",
-        "FL handle size": "100x25mm",
-        "ST handle size": "100x23mm",
+        "blade_thickness": "6.5mm",
+        "blade_size": "158x152mm",
+        "FL_handle_size": "100x25mm",
+        "ST_handle_size": "100x23mm",
         "country": "Made in Germany"
       }
     }
